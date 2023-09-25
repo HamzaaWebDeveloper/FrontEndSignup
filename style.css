@@ -1,0 +1,67 @@
+
+/* Navbar Css */
+
+.nav-link{
+    text-align: left;
+
+    font-size: 12px;
+}
+.nav-link:hover{
+    text-decoration: underline;
+
+}
+
+.navbar-brand img{
+  width: 40px;
+  height: 44px;
+  border-radius: 30px;
+  
+};
+
+
+
+.navbar-brand img {
+
+    height: 30px;
+    width: 25px;
+  }
+
+span {
+    font-family: cursive;
+    font-size: large;
+    font-weight: bold;
+}
+
+/* End */
+
+
+
+
+
+
+/* Colums One Css */
+.carousel-item{
+margin-top: 50px;
+
+}
+
+/* End */
+
+
+/* column Two Css */
+.form-control {
+border-radius: 0%;
+    outline: none;
+    border: 1px solid #ccc;
+  }
+  
+  .form-control:focus {
+    outline: none;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 1px 1px rgba(255, 5, 5, 0.993);
+  }
+  .alien{
+    margin-top: 50px;
+}
+
+/* End */
